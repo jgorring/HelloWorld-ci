@@ -41,7 +41,7 @@
  
  
 	<build>
-		<finalName>HelloWorld</finalName>
+		<finalName>HelloWorld-ci</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>

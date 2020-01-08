@@ -5,12 +5,12 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Prueba pipeline jenkins: defensa master</title>
+<title>Prueba pipeline Azure: defensa master</title>
 </head>
 <body>
  
 	<center>
-		<h2>Prueba pipeline jenkins: defensa master</h2>
+		<h2>Prueba pipeline Azure: defensa master</h2>
 		<h3>
 			<a href="hello?name=Jeannette Gorrin ... CI">Click Here</a>
 		</h3>

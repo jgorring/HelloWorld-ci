@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'c6def6ab-f6a0-4b4c-915d-93437a13c6cd'
   
   # Web app name
-  webAppName: 'PruebaApp'
+  webAppName: 'HelloWorld-ci'
 
   # Environment name
   environmentName: 'PruebaEnv'

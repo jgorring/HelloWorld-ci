@@ -15,7 +15,7 @@ variables:
   webAppName: 'PruebaApp'
 
   # Environment name
-  environmentName: 'PruebaEnv'
+  environmentName: 'Prueba'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
